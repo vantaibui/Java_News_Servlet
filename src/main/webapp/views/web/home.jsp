@@ -3,6 +3,8 @@
 <%@include file="/common/taglib.jsp"%>
 
 <main>
+	<h1>${categories}</h1>
+
 	<!-- Trending Area Start -->
 	<div class="trending-area fix pt-25 gray-bg">
 		<div class="container">

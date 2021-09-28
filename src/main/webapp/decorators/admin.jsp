@@ -31,7 +31,7 @@
 	<!-- Page Wrapper -->
 	<div id="wrapper">
 
-		<%@include file="/common/admin/header.jsp"%>
+		<%@include file="/common/admin/sidebar.jsp"%>
 
 		<!-- Content Wrapper -->
 		<div id="content-wrapper" class="d-flex flex-column">
